@@ -6,8 +6,8 @@
 </head>
 <body>
 <form action="numerodista.php" method="get">
-      <label for="">Digite Numero</label><input name="num1" type="text">
-      <label for="">Digite Numero</label><input name="num2" type="text">
+      <label for="">velocidad</label><input name="num1" type="text">
+      <label for="">tiempo</label><input name="num2" type="text">
       <input type="submit" name="enviar" value="Enviar">
     </form>
 </body>

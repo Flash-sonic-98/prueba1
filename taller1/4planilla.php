@@ -6,8 +6,8 @@
 </head>
 <body>
 <form action="numeropla.php" method="get">
-      <label for=""></label><input name="num1" type="text">
-      <label for=""></label><input name="num2" type="text">
+      <label for="">Numero de horas al mes</label><input name="num1" type="text">
+      <label for="">Valor por hora</label><input name="num2" type="text">
       <input type="submit" name="enviar" value="Enviar">
     </form>
 </body>

@@ -2,7 +2,9 @@
 $V = $_GET ['num1'];
 $E = $_GET ['num2'];
 $D = $_GET ['num3'];
-$R = 1;
+$G = 3;
+$P = 0;
+$e = 1;
 
-echo $V * $V + $E * $E + $D * $R, "estos son los puntos que tiene el aberica" ;
+echo $V * $G + $E * $P + $D * $e, "estos son los puntos que tiene el aberica" ;
 ?>

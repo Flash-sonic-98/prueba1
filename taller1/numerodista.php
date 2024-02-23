@@ -2,5 +2,6 @@
 
 $V =  $_GET['num1'];
 $T = $_GET['num2'];
-echo "la distancia recorrida es de  ", $V*$T;
+$D = $V * $T;
+echo "la distancia recorrida es de  ", $D;
 ?>

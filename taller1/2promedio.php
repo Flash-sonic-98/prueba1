@@ -6,10 +6,12 @@
 </head>
 <body>
 <form action="numeropro.php" method="get">
+<label for="">Nombre del estudiante </label><input name="num4" type="text">
+<label for="">Materia</label><input name="num5" type="text">
       <label for="">Digite nota</label><input name="num1" type="text">
       <label for="">Digite nota</label><input name="num2" type="text">
       <label for="">Digite nota</label><input name="num3" type="text">
-      <label for="">Digite Numero</label><input name="num4" type="text">
+     
       <input type="submit" name="enviar" value="Enviar">
     </form>
 </body>
